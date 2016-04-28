@@ -1,5 +1,5 @@
 # FTPServerAndClient
-My FTP server and client, it is coded by java,and it need to be extend.
+以下内容还是下载下来在文本编辑其里面看吧，网页上格式都乱了。
 com.yufeng
 		|
 		|--config  配置文件以及读取配置文件的工具类存放的地方
